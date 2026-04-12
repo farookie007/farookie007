@@ -11,7 +11,7 @@
     margin: 0;
     box-sizing: border-box;
 
-    border: 1px dotted red;
+    /* border: 1px dotted red; */
 }
 
 html {
@@ -139,7 +139,9 @@ ul.indent {
 
 #cover-letter {
     width: 75%;
-    margin: 100px auto 0px;   
+    margin: 100px auto 0px;
+    letter-spacing: 0.8px;
+    line-height: 1.2rem;
 }
 
 #cover-letter p {
