@@ -140,8 +140,8 @@ ul.indent {
 #cover-letter {
     width: 75%;
     margin: 100px auto 0px;
-    letter-spacing: 0.8px;
-    line-height: 1.2rem;
+    letter-spacing: 1px;
+    line-height: 1.8rem;
 }
 
 #cover-letter p {
