@@ -137,6 +137,14 @@ ul.indent {
     width: 50%;
 }
 
+#cover-letter {
+    margin: 30px auto 0px;   
+}
+
+#cover-letter p {
+    margin: 15px 0;
+}
+
 .heading {
     margin: 20px 0 100px;
 }    
