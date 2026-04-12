@@ -138,11 +138,12 @@ ul.indent {
 }
 
 #cover-letter {
-    margin: 30px auto 0px;   
+    width: 75%;
+    margin: 100px auto 0px;   
 }
 
 #cover-letter p {
-    margin: 15px 0;
+    margin: 35px 0;
 }
 
 .heading {
